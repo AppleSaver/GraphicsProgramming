@@ -66,7 +66,7 @@ public class GraphicsProgramming1 extends JFrame
             
             // Make all the buttons in makeMeButtons by passing the
             // button icon. 
-            //this buttons for actions
+            
             brushBut = makeMeButtons("./src/brush.png", 1);
             lineBut = makeMeButtons("./src/Line.png", 2);
             ellipseBut = makeMeButtons("./src/Ellipse.png", 3);
